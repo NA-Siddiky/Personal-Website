@@ -1,0 +1,93 @@
+body{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+section{
+    height: 600px;
+    padding-bottom: 75px;
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background: linear-gradient(90deg, white,rgb(255, 236, 286))
+}
+
+.middle-banner{
+    background: linear-gradient(90deg, rgb(285, 236, 236), white)
+}
+
+.working-projects{
+    background-repeat: no-repeat;
+    background: linear-gradient(90deg, white,rgb(255, 236, 286))
+}
+
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    font: center;
+}
+
+p{
+    color: dimgray;
+}
+
+.name-highlight{
+    color: orange;
+}
+
+.button-of-link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: linear-gradient(75deg, orange, tomato)
+}
+
+.button-of-link2{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 15px 25px;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    background: linear-gradient(75deg, purple,blue)
+}
+
+.half-of-width img{
+    width: 82%;
+    padding: 10px 10px;
+}
+
+.half-of-width{
+    width: 30%;
+    float: left;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.half-of-width s3{
+    width: 10%;
+    float: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.experience-box{
+    box-shadow: 10px 10px 30px gray ;
+    border-radius: 5px;
+    width: 17%;
+    background-color: white;
+}
