@@ -12,7 +12,7 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    background: linear-gradient(90deg, white,rgb(255, 236, 286))
+    background-color;: linear-gradient(90deg, white,rgb(255, 236, 286))
 }
 
 .middle-banner{
@@ -20,7 +20,7 @@ section{
 }
 
 .third-banner{
-    height: 700px;
+    height: 750px;
     background: linear-gradient(90deg, white,rgb(255, 236, 286))
 
 }
