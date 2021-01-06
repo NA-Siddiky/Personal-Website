@@ -168,6 +168,15 @@ p{
     height: 100%;
 }
 
+.icon-box{
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 1000px;
+    margin: 150px;
+    padding: 2px;
+    float: center;
+}
+
 .container {
     position: relative;
   }
